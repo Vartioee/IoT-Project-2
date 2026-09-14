@@ -1,3 +1,3 @@
 # IoT-Project-2
 
-Contributors: Eemeli VAartio, Nikitia Toporkov
+Contributors: Eemeli Vartio, Nikitia Toporkov
